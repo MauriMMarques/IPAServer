@@ -11,4 +11,11 @@ jspm_packages/
 # Optional npm cache directory
 .npm
 
+# Build files
+*.ipa
+manifest.plist
+
+# SSL Certificate
+certificate/
+
 .DS_Store
